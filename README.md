@@ -19,3 +19,9 @@ Learning TypeScript by making a Blockchain with it.
 3. package.json 설정 
 - 실행 명령어 설정 
 scripts : start/prestart 설정 : 노드는 typescript 를 이해하지 못해서 자바스크립트로 컴파일 하는 작업이 필요함.
+# typechain
+
+
+## git 사용법 
+
+- git 저장소 내 파일/폴더 삭제 : git rm -r --cached 파일명 파일명 (복수 사용 가능)
