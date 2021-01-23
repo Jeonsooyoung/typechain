@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start" : "node index.js",
-    "prestart":"npx tsc"
+    "prestart":"tsc"
   },
   "repository": {
     "type": "git",
