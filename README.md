@@ -19,7 +19,14 @@ Learning TypeScript by making a Blockchain with it.
 3. package.json 설정 
 - 실행 명령어 설정 
 scripts : start/prestart 설정 : 노드는 typescript 를 이해하지 못해서 자바스크립트로 컴파일 하는 작업이 필요함.
-# typechain
+
+## plugin 
+1. TSLINT(vscode 내 설치)
+2. tsc watch (npm)
+: npm install tsc-watch --save-dev 
+**developer mode로 설치 : 자바스크립트 모듈 설치 시, 배포 모드와 개발 모드가 구분되어 있는데,    
+배포 모드 일 경우, 검증 없이 빠르게 실행 되는 것이 중요하고,     
+개발 모드에서는 버그로 이어질 만한 많은 부분들을 미리 경고 해주는 검증 코드가 포함되어야 하기 때문에, 속도가 느려질 수 있음.    
 
 
 ## git 사용법 

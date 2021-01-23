@@ -4,8 +4,7 @@
   "description": "Learning TypeScript by making a Blockchain with it",
   "main": "index.js",
   "scripts": {
-    "start" : "node index.js",
-    "prestart":"tsc"
+    "start" : "tsc-watch --onSuccess \"node index.js\" "
   },
   "repository": {
     "type": "git",
