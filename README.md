@@ -29,6 +29,9 @@ scripts : start/prestart 설정 : 노드는 typescript 를 이해하지 못해�
 개발 모드에서는 버그로 이어질 만한 많은 부분들을 미리 경고 해주는 검증 코드가 포함되어야 하기 때문에, 속도가 느려질 수 있음.    
 
 
+## create block chain 
+ - crypto-js 설치
+
 ## git 사용법 
 
 - git 저장소 내 파일/폴더 삭제 : git rm -r --cached 파일명 파일명 (복수 사용 가능)
