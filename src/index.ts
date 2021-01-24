@@ -1,4 +1,4 @@
-import * Crypto from 'crypto-js';
+import * as CryptoJS from 'crypto-js';
 
 class Block {
 
